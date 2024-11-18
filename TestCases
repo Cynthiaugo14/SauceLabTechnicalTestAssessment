@@ -1,0 +1,8 @@
+Test Case:
+1. Navigate to (https://www.saucedemo.com/)
+2. Login with valid credentials (username: standard_user, password: secret_sauce)
+3. Add a T-shirt to the cart
+4. Proceed to checkout
+5. Fill in the checkout information
+6. Complete the purchase
+7. Verify the purchase confirmation
